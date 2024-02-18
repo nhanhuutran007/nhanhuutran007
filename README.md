@@ -47,4 +47,4 @@
 
 <p align="center">
   <a href="https://github.com/nhanhuutran007">
-    <img src="chừng nữa sẽ để cái link liên kết đến ảnh vào đây" alt="nhanhuutran007" /></a>
+    <img src="https://github.com/nhanhuutran007/nhanhuutran007/blob/main/T%C4%90T_logo-removebg-preview.png" width="15%" alt="nhanhuutran007" /></a>
