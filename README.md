@@ -34,5 +34,5 @@
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=nhanhuutran007&theme=prussian" alt="GitHub Streak"  /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nhanhuutran007&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nhanhuutran007&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
