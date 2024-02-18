@@ -31,7 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhanhuutran007&show_icons=true&locale=en" alt="nhanhuutran007" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhanhuutran007&show_icons=true&locale=en&layout=compact" alt="nhanhuutran007" /></p>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nhanhuutran007&theme=prussian" alt="GitHub Streak" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhanhuutran007&" alt="nhanhuutran007" /></p>
 
