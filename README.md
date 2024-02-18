@@ -1,8 +1,4 @@
 
-
-
-
-preview
 <h1 align="center">Hi 👋, I'm NhanHere</h1>
 <h3 align="center">A STUDENT FROM ViETNAM</h3>
 
@@ -34,7 +30,6 @@ preview
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhanhuutran007&show_icons=true&locale=en&layout=compact" alt="nhanhuutran007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhanhuutran007&show_icons=true&locale=en" alt="nhanhuutran007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhanhuutran007&" alt="nhanhuutran007" /></p>
 
