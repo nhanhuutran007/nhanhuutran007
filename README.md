@@ -40,7 +40,7 @@
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=nhanhuutran007&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="40%"/>
       </p>
     </td>
   </tr>
