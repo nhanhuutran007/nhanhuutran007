@@ -10,7 +10,7 @@
   </tr>
 </table>
 <h1 align="center">Hi 👋, I'm NhanHere</h1>
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"  width="15%"/></p>
+<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"  width="5%"/></p>
 <h3 align="center">A STUDENT FROM VIETNAM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhanhuutran007&label=Profile%20views&color=0e75b6&style=flat" alt="nhanhuutran007" /> </p>
