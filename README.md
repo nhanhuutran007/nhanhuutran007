@@ -6,3 +6,6 @@
 - 😄 Pronouns: Nhan is here
 - ⚡ Fun fact: Funny Person
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NhanHere&theme=prussian)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NhanHere&theme=prussian" alt="GitHub Streak" /></a>
