@@ -39,6 +39,13 @@
 <p><img align="center" src="https://streak-stats.demolab.com?user=nhanhuutran007&theme=prussian" alt="GitHub Streak"  /></p>
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=nhanhuutran007&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
   <a href="https://github.com/nhanhuutran007">
