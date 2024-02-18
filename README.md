@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=A %20STUDENT%20OF%20TON DUC THANG UNIVERSITY;Learning%20to%20Code and Design;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=4974a5&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="4%"/>
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="15%"/>
       </p>
     </td>
   </tr>
