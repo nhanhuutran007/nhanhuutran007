@@ -3,9 +3,7 @@
   <a href="https://github.com/nhanhutran007/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=A %20STUDENT%20OF%20TON DUC THANG UNIVERSITY;Learning%20to%20Code and Design;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=4974a5&vCenter=true&pause=1000&size=22" /></a>
 </p>
-<p align="center">
-  <a href="https://github.com/nhanhuutran007">
-    <img src="chừng nữa sẽ để cái link liên kết đến ảnh vào đây" alt="nhanhuutran007" /></a>
+
 </p>
 <h1 align="center">Hi 👋, I'm NhanHere</h1>
 <h3 align="center">A STUDENT FROM VIETNAM</h3>
@@ -44,3 +42,6 @@
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=nhanhuutran007&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <a href="https://github.com/nhanhuutran007">
+    <img src="chừng nữa sẽ để cái link liên kết đến ảnh vào đây" alt="nhanhuutran007" /></a>
