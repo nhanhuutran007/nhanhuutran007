@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/nhanhuutran007">
-    <img src="https://github.com/nhanhuutran007/nhanhuutran007/blob/main/%C4%91en%20tr%E1%BA%AFng.jpg" alt="nhanhuutran007" /></a>
+    <img src="https://github.com/nhanhuutran007/nhanhuutran007/blob/main/%C4%91en%20tr%E1%BA%AFng.jpg&width=400&height=3000" alt="nhanhuutran007" /></a>
 </p>
 <h1 align="center">Hi 👋, I'm NhanHere</h1>
 <h3 align="center">A STUDENT FROM VIETNAM</h3>
