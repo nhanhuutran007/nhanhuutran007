@@ -16,6 +16,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhanhuutran007&label=Profile%20views&color=0e75b6&style=flat" alt="nhanhuutran007" /> </p>
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nhanhuutran007)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhanhuutran007" alt="nhanhuutran007" /></a> </p>
 
 - 🔭 I’m currently working on **TDTU**
