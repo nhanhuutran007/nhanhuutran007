@@ -18,8 +18,6 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nhanhuutran007)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhanhuutran007" alt="nhanhuutran007" /></a> </p>
-
 - 🔭 I’m currently working on **TDTU**
 
 - 🌱 I’m currently learning **English**
