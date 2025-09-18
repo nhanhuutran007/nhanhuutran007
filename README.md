@@ -40,7 +40,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-
+[![](https://github-readme-activity-graph.vercel.app/graph?username=nhanhuutran007&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <a href="https://github.com/nhanhuutran007">
